@@ -1,13 +1,11 @@
+VulnHunter-Elite-v1
+
+
 CLI Version 
 
 
 
 vulnhunter-elite-v1.py 
-
-
-
-
-
 
 
 GUI Version
@@ -19,22 +17,11 @@ python3 vulnhunter-elite-v1-gui.py
 
 
 
-
-
-
-
-
 🛠️ Requirements
 
 
 
 sudo apt install python3 python3-tk -y
-
-
-
-
-
-
 
 
 
@@ -53,12 +40,6 @@ VulnHunter-Elite-v1/
 ├── README.md
 
 └── screenshots/
-
-
-
-
-
-
 
 
 
@@ -135,15 +116,6 @@ Domain: www.google.com
 
 
 
-
-
-
-
-
-
-
-
-
 🧠 Cybersecurity Concepts Learned
 
 
@@ -155,11 +127,6 @@ Security Headers — HTTP security best practices
 SSL/TLS — Encryption validation, certificate verification
 
 Risk Assessment — Security scoring methodology
-
-
-
-
-
 
 
 
@@ -177,11 +144,6 @@ SSL/TLS Socket Programming
 GUI Development (tkinter)
 
 String Analysis \& Pattern Matching
-
-
-
-
-
 
 
 
@@ -204,15 +166,9 @@ String Analysis \& Pattern Matching
 
 
 
-
-
-
-
 👤 Author
 
 GitHub: Black-Ghost00
-
-
 
 
 
