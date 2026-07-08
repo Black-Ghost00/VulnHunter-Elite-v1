@@ -1,3 +1,15 @@
+CLI Version 
+
+
+
+vulnhunter-elite-v1.py 
+
+
+
+
+
+
+
 GUI Version
 
 
@@ -207,10 +219,4 @@ GitHub: Black-Ghost00
 📜 License
 
 MIT License — Open-source and intended for educational purposes.
-
-
-
-
-
-
 
