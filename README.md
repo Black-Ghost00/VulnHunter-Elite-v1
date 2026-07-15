@@ -16,6 +16,11 @@ python3 vulnhunter-elite-v1-gui.py
 
 
 
+command 
+python3 ~/vulnhunter-elite/vulnhunter-elite-v1-gui.py
+
+
+
 
 🛠️ Requirements
 
